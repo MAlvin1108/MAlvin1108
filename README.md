@@ -34,8 +34,3 @@
 
 ###
 
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/MAlvin1108/MAlvin1108/output/snake.svg" alt="Snake animation" />
-
-###
